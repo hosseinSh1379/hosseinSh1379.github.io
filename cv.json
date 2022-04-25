@@ -1,0 +1,110 @@
+{
+  "personalInfo": {
+    "firstname": "امیرحسین",
+    "lastname": "شمری",
+    "image": "https://avatars.githubusercontent.com/u/62371264?v=4",
+    "description": "حدود 3 سالی هست که در زمینه برنامه نویسی تحت وب مشغول به کار هستم و به یادگیری چیزاهای جدید علاقه دارم وسعی میکنم خودم رو با تکنولوژی های جدید بروز نگه دارم",
+    "contactDetails": [
+      {
+        "name": "تلگرام",
+        "value": "@developer1379",
+        "href": "https://t.me/developer1379",
+        "iconify": "fa-telegram",
+        "color": "#00b7ff"
+      },
+      {
+        "name": "گیت هاب",
+        "value": "@hosseinSh1379",
+        "href": "https://github.com/hosseinSh1379",
+        "iconify": "fa-telegram",
+        "color": "#000000"
+      },
+      {
+        "name": "فیسبوک",
+        "value": "@hosseinSh1379",
+        "href": "https://www.facebook.com/hussein.alshmery.77",
+        "iconify": "fa-telegram",
+        "color": "#000000"
+      }
+    ],
+    "phone": "09300791651",
+    "email": "husseinhashim235@gmail.com"
+  },
+  "morePersonalInfo": {
+    "language": [
+      {
+        "name": "عربی",
+        "percent": "100"
+      },
+      {
+        "name": "فارسی",
+        "percent": "100"
+      },
+      {
+        "name": "انگلیسی",
+        "percent": "15"
+      }
+    ],
+    "personalInfo": [
+      {
+        "name": "محل سکونت",
+        "value": "ایران , قم"
+      },
+      {
+        "name": "متولد",
+        "value": "کرمانشاه"
+      },
+      {
+        "name": "شغل",
+        "value": "برنامه نویس"
+      },
+      {
+        "name": "سابقه کاری",
+        "value": "3 سال"
+      },
+      {
+        "name": "تجربه",
+        "value": "3 سال"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "html",
+      "icon": "https://iconape.com/wp-content/files/qr/67382/svg/html-5.svg",
+      "percent": 70
+    },
+    {
+      "id": 2,
+      "name": "css",
+      "icon": "https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png",
+      "percent": 60
+    },
+    {
+      "id": 3,
+      "name": "js",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png",
+      "percent": 50
+    },
+    {
+      "id": 4,
+      "name": "vue",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png",
+      "percent": 80
+    },
+    {
+      "id": 5,
+      "name": "php",
+      "icon": "https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png",
+      "percent": 50
+    },
+    {
+      "id": 6,
+      "name": "laravel",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png",
+      "percent": 60
+    }
+  ]
+
+}

@@ -1,0 +1,20 @@
+<svg id="erfhb1hnyh21" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1000.300000 107.060000" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <style>
+        <![CDATA[#erfhb1hnyh24_to {animation: erfhb1hnyh24_to__to 2000ms linear infinite normal forwards}@keyframes erfhb1hnyh24_to__to { 0% {transform: translate(500px,54.029297px)} 50% {transform: translate(398.128957px,53.529297px)} 100% {transform: translate(500px,53.529297px)} }#erfhb1hnyh25_to {animation: erfhb1hnyh25_to__to 2000ms linear infinite normal forwards}@keyframes erfhb1hnyh25_to__to { 0% {transform: translate(500.150781px,53.539063px)} 50% {transform: translate(586.066118px,53.529063px)} 100% {transform: translate(500.000781px,53.039063px)} }]]></style>
+    <g id="erfhb1hnyh22">
+        <g id="erfhb1hnyh23">
+            <g id="erfhb1hnyh24_to" transform="translate(500,54.029297)">
+                <path id="erfhb1hnyh24"
+                      d="M0,1C112.510000,71.060000,207.930000,90,276.880000,93.350000C464.280000,102.450000,554,1.140000,737.930000,13.640000C849.680000,21.230000,939.280000,67,1000,107.060000L0,107.060000L0,1Z"
+                      transform="translate(-500,-54.029297)" fill="rgb(73, 123, 173)" stroke="none" stroke-width="1"/>
+            </g>
+            <g id="erfhb1hnyh25_to" transform="translate(500.150781,53.539063)">
+                <path id="erfhb1hnyh25"
+                      d="M1000.300000,0C887.790000,70.080000,792.370000,89,723.420000,92.370000C536,101.470000,446.310000,0.160000,262.370000,12.660000C150.620000,20.250000,61,66,0.300000,106.080000L1000.300000,106.080000L1000.300000,0Z"
+                      transform="translate(-500.300781,-53.039063)" opacity="0.35" fill="rgb(80, 132, 185)" stroke="none"
+                      stroke-width="1"/>
+            </g>
+        </g>
+    </g>
+</svg>

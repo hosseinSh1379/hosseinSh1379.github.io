@@ -26,13 +26,13 @@
         "iconify": "fa-facebook",
         "color": "#0000FFFF"
       },
-          {
+       {
         "name": "اینستاگرام",
         "value": "@developer1379",
         "href": "https://www.instagram.com/developer1379/",
         "iconify": "fa-instagram",
         "color": "#EB5353"
-      },
+      }
     ],
     "phone": "09300791651",
     "email": "husseinhashim235@gmail.com"
